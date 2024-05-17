@@ -28,3 +28,8 @@
 | Being John Malkovich | 1999 | English | eng | Elijah  | 以利亚     |
 | Io sono l'amore      | 2009 | Italian | ita | Tom     | 汤姆       |
 | L'avenir             | 2016 | French  | fra | Pandora | 潘多拉     |
+
+## Attribute
+
+lightGallery's license is [here](https://www.lightgalleryjs.com/license/).  
+Content of `README.md` licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
